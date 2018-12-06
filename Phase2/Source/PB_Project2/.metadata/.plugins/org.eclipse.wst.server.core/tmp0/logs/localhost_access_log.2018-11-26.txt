@@ -1,0 +1,7 @@
+127.0.0.1 - - [26/Nov/2018:15:30:53 -0600] "GET /favicon.ico HTTP/1.1" 404 1085
+127.0.0.1 - - [26/Nov/2018:15:31:02 -0600] "GET /TwitterAnalysis/diseasecnt HTTP/1.1" 200 2932
+127.0.0.1 - - [26/Nov/2018:15:31:07 -0600] "GET /TwitterAnalysis/worldmap.js HTTP/1.1" 200 774
+127.0.0.1 - - [26/Nov/2018:15:31:22 -0600] "GET /TwitterAnalysis/wordcloud HTTP/1.1" 200 1520
+127.0.0.1 - - [26/Nov/2018:15:31:22 -0600] "GET /TwitterAnalysis/word.csv HTTP/1.1" 200 476
+127.0.0.1 - - [26/Nov/2018:15:31:30 -0600] "GET /TwitterAnalysis/cuisine HTTP/1.1" 200 2667
+127.0.0.1 - - [26/Nov/2018:15:34:15 -0600] "GET /TwitterAnalysis/home.html HTTP/1.1" 304 -

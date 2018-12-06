@@ -1,0 +1,5 @@
+127.0.0.1 - - [06/Dec/2018:14:41:12 -0600] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [06/Dec/2018:14:41:12 -0600] "GET /TwitterAnalysis/home.html HTTP/1.1" 304 -
+127.0.0.1 - - [06/Dec/2018:14:41:29 -0600] "GET /TwitterAnalysis/diseasecnt HTTP/1.1" 200 2932
+127.0.0.1 - - [06/Dec/2018:14:44:26 -0600] "GET /TwitterAnalysis/worldmap.js HTTP/1.1" 304 -
+127.0.0.1 - - [06/Dec/2018:14:44:26 -0600] "GET /TwitterAnalysis/worldmap.js HTTP/1.1" 304 -

@@ -1,0 +1,41 @@
+$(function () {
+
+    $('#container').highcharts({
+        chart: {
+            type: 'pyramid',
+            marginRight: 100
+        },
+        title: {
+            text: 'Top 10 Users Tweeted on Diseases',
+            x: -50
+        },
+        plotOptions: {
+            series: {
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b> ({point.y:,.0f})',
+                    color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black',
+                    softConnector: true
+                }
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        series: [{
+            name: 'Tweet Count',
+            data: [
+                ['Health and Fitness',74], 
+                ['Minimalistmeso',323],
+                ['Sarah Feagan',50],
+                ['remi.winehouse',90],
+                ['Francis Huynh',25],
+                ['TB/HIV Activist G..',470],
+                ['Grey Matters Tumo',76],
+                ['AMSE',50], 
+                ['Dr. Waleed Al-Salem',99],
+                ['Asthama Causes',590], 
+            ]
+        }]
+    });
+});
