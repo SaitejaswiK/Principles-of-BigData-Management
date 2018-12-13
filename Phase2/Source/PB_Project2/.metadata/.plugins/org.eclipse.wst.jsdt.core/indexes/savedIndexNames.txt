@@ -1,7 +1,2 @@
-INDEX VERSION 1.4+/home/koushik/eclipse-workspace/PB_Project2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3719302397.index
+INDEX VERSION 1.4+/home/koushik/Desktop/PB_Project2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
 1795480290.index
-1257518525.index
-2939350607.index
-2404659154.index
-3969870701.index
